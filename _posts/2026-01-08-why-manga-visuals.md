@@ -2,6 +2,7 @@
 layout: default
 title: "Why Manga Excels at Visual Storytelling"
 ---
+![A silent manga panel emphasizing negative space](/assets/images/posts/babysteps.jpg)
 
 Manga uses panel composition, pacing, and negative space
 in ways that are often closer to film editing than prose.
