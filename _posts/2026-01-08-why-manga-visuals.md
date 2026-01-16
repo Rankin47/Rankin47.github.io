@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Why Manga Excels at Visual Storytelling"
+title: "Baby Steps Blog Post"
 ---
 
 Welcome to my first ever post! As a little celebration and to set some ground work I thought I'd
