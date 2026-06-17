@@ -6,9 +6,10 @@ title: "Baby Steps Blog Post"
 Welcome to my first ever post! As a little celebration and to set some ground work I thought I'd
 write about my favourite manga. Though this is far from an all encompassing loving thesis. Baby Steps by Hikaru Katsuki -
 
-![A silent manga panel emphasizing negative space](/assets/images/posts/babysteps.jpg)
-
-![A silent manga panel emphasizing negative space](/assets/images/posts/Cover.jpg)
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="/assets/images/posts/babysteps.jpg" alt="Baby Steps cover" width="250">
+  <img src="/assets/images/posts/Cover.jpg" alt="Cover image" width="250">
+</div>
 
 At first glance what I describe in this post may seem dry, clinical, or boring but please remember
 what I’m talking about are the mechanics that make Baby Steps the most entertaining manga
