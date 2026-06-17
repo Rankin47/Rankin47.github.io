@@ -4,7 +4,9 @@ title: "Baby Steps Blog Post"
 ---
 
 Welcome to my first ever post! As a little celebration and to set some ground work I thought I'd
-write about my favourite manga. Though this is far from an all encompassing loving thesis. Baby Steps by Hikaru Katsuki -
+write about my favourite manga. Though this is far from an all encompassing loving thesis. 
+
+Baby Steps by Hikaru Katsuki -
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <img src="/assets/images/posts/babysteps.jpg" alt="Baby Steps cover" width="250">
@@ -28,7 +30,6 @@ after beginning, the reader will understand the rules of tennis to the point the
 and not be lost watching a real game. Yet, that is simply the first building block towards
 developing an understanding of what it tangibly means to be a tennis player of varying skill
 levels, varying styles, or even varying age ranges. For example, this even goes so far as to how
-
 the reader will understand the implications of a serve being hit at 150km/h vs 200km/h. Exactly
 how much harder is it to return the 200km/h ball? Exactly how much does it matter if an
 opponent is far taller than you? Exactly how hard is it to aim for a difficult shot? The main
@@ -66,9 +67,11 @@ core of its biggest strength. The readers gained understanding of tennis permeat
 the entire manga and not just the matches and practicing scenes. For example, this
 understanding also serves and is a consequence of the greater realistic style of the series.
 However, that’s a totally different topic I intend on writing about soon.
+
 Thanks for reading the first ever post!
 I will write more on baby Baby Steps and I plan on compiling all the articles into a good Baby
 Steps mega playlist which will be the completed “Loving Thesis”
+
 But I will write about a bunch of manga from every genre I love and dislike so please look
 forward to it.
 
