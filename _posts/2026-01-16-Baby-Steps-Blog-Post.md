@@ -6,6 +6,8 @@ title: "Baby Steps Blog Post"
 Welcome to my first ever post! As a little celebration and to set some ground work I thought I'd
 write about my favourite manga. Though this is far from an all encompassing loving thesis. Baby Steps by Hikaru Katsuki -
 
+![A silent manga panel emphasizing negative space](/assets/images/posts/babysteps.jpg)
+
 ![A silent manga panel emphasizing negative space](/assets/images/posts/Cover.jpg)
 
 At first glance what I describe in this post may seem dry, clinical, or boring but please remember
@@ -31,8 +33,6 @@ how much harder is it to return the 200km/h ball? Exactly how much does it matte
 opponent is far taller than you? Exactly how hard is it to aim for a difficult shot? The main
 character Maruo’s playstyle is very analytical and defensive, I’m certain it was written that way
 to benefit this aspect of the story.
-
-![A silent manga panel emphasizing negative space](/assets/images/posts/babysteps.jpg)
 
 All of this is a method to get readers invested in each individual moment, and each character.
 When a reader knows what is impressive in real tennis then they will in turn be impressed when
